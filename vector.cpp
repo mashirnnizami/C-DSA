@@ -18,6 +18,7 @@ int main() {
    cout<<"After modify we get :";
     
     numbers[1]=28;
+    
       cout<<"Elements of the vector:"<<endl;
     for (int i = 0; i < numbers.size(); ++i)
     {
